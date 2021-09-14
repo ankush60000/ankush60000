@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ankush60000
+- 👋 Hi, I’m Ankush
 - 👀 I’m interested in Programming
 - 🌱 I’m currently learning Android Development
 - 📫 How to reach me ankush60000@gmail.com
